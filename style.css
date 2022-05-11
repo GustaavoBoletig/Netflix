@@ -1,0 +1,119 @@
+body{
+background-color: #141414;
+}
+#logo-la{
+width: 100px;
+height: 70px;
+padding-bottom: 100px;
+}
+#qea{
+color: #FFFFFF;
+font-style: normal;
+font-size: 3.5vw;
+font-weight: unset;
+font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;;
+
+padding-left: 84px;
+padding-bottom: 5px;
+
+
+}
+#area{
+position: absolute;
+left: 50%;
+top: 40%;
+transform: translate(-50%, -50%);
+border-radius: 2px;
+
+}
+#gerenciador{
+position: absolute;
+left: 48.9%;
+top: 130%;
+transform: translate(-50%, -50%);
+
+border-width: 4px;
+border-color: rgb(129, 129, 129);
+background-color: black;
+color: rgb(129, 129, 129);
+
+font-style: normal;
+font-size: 25px;
+font : normal 20pt Arial;
+font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;;
+
+border: 1px solid #808080;
+border-color: #808080;
+background-color: black;
+
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 26px;
+height: 45px;
+width: 208px;
+
+flex-direction: row-reverse;
+display: flex;
+align-items: center;
+background-color: transparent;
+
+
+}
+.nome1{
+
+color: #808080;
+font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;;
+font-size: 18px;
+padding-left: 42px;
+padding-right: 21px;
+margin: 0px;
+
+}
+.nome2{
+
+color: #808080;
+font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;;
+font-size: 18px;
+padding-left: 50px;
+padding-right: 50px;
+margin: 0px;
+
+}
+.nome3{
+
+color: #808080;
+font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;;
+font-size: 18px;
+padding-left: 46px;
+padding-right: 46px;
+margin: 0px;
+
+}
+.nome4{
+
+color: #808080;
+font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;;
+font-size: 18px;
+padding-left: 46px;
+margin: 0px;
+
+}
+.nome5{
+
+color: #808080;
+font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;;
+font-size: 18px;
+padding-left: 48px;
+padding-right: 48px;
+margin: 0px;
+
+
+}
+.container{
+display: flex;    
+flex-direction: row;
+color: #808080;
+font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;;
+font-size: 18px;
+
+}
